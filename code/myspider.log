@@ -1,0 +1,9 @@
+2018-07-28 17:23:42 engine.py [line:85] INFO: Start time : 2018-07-28 17:23:42.953322
+2018-07-28 17:23:42 connectionpool.py [line:213] INFO: Starting new HTTP connection (1): www.baidu.com
+2018-07-28 17:23:43 connectionpool.py [line:213] INFO: Starting new HTTP connection (1): news.baidu.com
+2018-07-28 17:23:47 connectionpool.py [line:788] INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-07-28 17:23:51 connectionpool.py [line:788] INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-07-28 17:23:54 connectionpool.py [line:788] INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-07-28 17:23:59 connectionpool.py [line:788] INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-07-28 17:24:02 engine.py [line:91] INFO: End time : 2018-07-28 17:24:02.004869
+2018-07-28 17:24:02 engine.py [line:93] INFO: Useing time : 19.051547
